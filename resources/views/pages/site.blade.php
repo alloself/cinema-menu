@@ -9,6 +9,7 @@
 </head>
 
 <body>
+    @csrf
     <main id="menu"></main>
 
     <script src="{{ mix('/js/manifest.js') }}" defer></script>
