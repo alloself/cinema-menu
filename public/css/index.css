@@ -1,1 +1,1 @@
-body,html{overflow:hidden}
+body,html{-webkit-overflow-scrolling:touch;-webkit-user-drag:none;overflow:hidden}
