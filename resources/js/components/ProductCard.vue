@@ -1,6 +1,6 @@
 <template>
     <div>
-        <v-card>
+        <v-card v-bind="$attrs">
             <v-img
                 src="/public/files/cooking.png"
                 class="white--text align-end"
@@ -18,3 +18,6 @@
         </v-card>
     </div>
 </template>
+<script>
+export default {};
+</script>
