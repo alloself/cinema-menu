@@ -3,7 +3,7 @@
         <div class="mb-6">
             <v-img
                 height="500"
-                src="https://cdn.vuetifyjs.com/images/cards/cooking.png"
+                src="/public/files/cooking.png"
             ></v-img>
         </div>
         <v-container>
